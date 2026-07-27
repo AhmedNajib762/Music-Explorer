@@ -125,8 +125,6 @@ SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 3. Copy your Client ID and Client Secret
 4. Add them to your `.env` file
 
-**Note:** Never upload your `.env` file to GitHub. Your credentials should remain private.
-
 ---
 
 ## 4. Start the Application
