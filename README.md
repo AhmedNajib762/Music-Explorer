@@ -32,7 +32,6 @@ Example of Webage after a song search
 - 📖 Display song lyrics using LRCLIB
 - 🔐 Secure API credential management using environment variables
 - 🚦 Built-in rate limiting to prevent excessive API requests
-- 💻 Responsive design for desktop and mobile devices
 
 ---
 
