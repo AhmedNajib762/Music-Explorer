@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Music Explorer</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  
+  <body>
+    <div class="app-shell">
+      
+
+      <header>
+        
+        <h1><span>♪</span> Quick Song Search?</h1>
+        
+        <p>Learn more about your favorite artist</p>
+        
+      </header>
+
+      <main>
+        
+        <form id="song-search-form">
+          
+          <span class="search-icon">⌕</span
+          >
+          <input
+            type="text"
+            id="song-search-input"
+            placeholder="Enter a song title"
+          />
+          <button type="submit" id="search-button">Search</button
+          >
+        </form>
+        
+        <section id="song-results" class="hidden">
+          
+          <article class="song-card">
+            
+            <div class="album-art" id="album-cover"></div>
+            
+            <div class="song-details" id="song-info"></div>
+            
+            <div class="song-actions" id="song-links"></div>
+            
+          </article>
+          
+          <article class="lyrics-card">
+            
+            <div class="card-heading">
+              
+              <h2><span>≋</span> Lyrics</h2>
+              
+              <a href="#" id="full-lyrics-link">Full Lyrics</a
+              >
+            </div>
+
+            <div class="lyrics-scroll" id="lyrics-output"></div>
+            
+          </article>
+          
+        </section>
+      </main>
+    </div>
+
+    <script src="updated.js"></script>
+  </body>
+</html>
