@@ -17,7 +17,7 @@ Example of Webage after a song search
 ## ✨ Features
 
 - 🔎 Search for songs using the Spotify Web API
-- 🎧 Display:
+- Display:
   - Song title
   - Artist name
   - Album information
@@ -25,13 +25,13 @@ Example of Webage after a song search
   - Release date
   - Song duration
   - Featured artists
-- 🎵 Direct links to:
+- Direct links to:
   - Spotify
   - YouTube
   - Genius lyrics search
-- 📖 Display song lyrics using LRCLIB
-- 🔐 Secure API credential management using environment variables
-- 🚦 Built-in rate limiting to prevent excessive API requests
+- Display song lyrics using LRCLIB
+- Secure API credential management using environment variables
+- Built-in rate limiting to prevent excessive API requests
 
 ---
 
