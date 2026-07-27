@@ -7,10 +7,10 @@ Music Explorer uses the Spotify Web API to retrieve song information, including 
 ---
 
 Preview of Front Webpage
-![Music Explorer Screenshot](images/screenshot 1.png)
+![Music Explorer Screenshot](images/screenshot-1.png)
 
 Example of Webage after a song search
-![Music Explorer Screenshot](images/screenshot 2.png)
+![Music Explorer Screenshot](images/screenshot-2.png)
 
 ---
 
